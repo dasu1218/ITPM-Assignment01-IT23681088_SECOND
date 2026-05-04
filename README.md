@@ -1,8 +1,5 @@
 # ITPM-Assignment01-IT23681088_SECOND
 
-
-# ITPM-Assignment01-IT23634008_SECOND
-
 ### Setup Instructions
 
 1. Install Python 3.13
